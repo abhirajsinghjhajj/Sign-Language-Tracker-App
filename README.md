@@ -64,7 +64,7 @@ To get started with the project, follow these steps:
         python app.py
         ```
 
-    The frontend application should now be running at `http://localhost:3000`, and the backend server should be running at `http://localhost:5000`.
+    The frontend application should now be running at `http://localhost:3000`, and the backend server should be running at `http://localhost:3000`.
 
 ## Usage
 
@@ -73,31 +73,10 @@ To get started with the project, follow these steps:
 - Perform sign language gestures in front of the camera.
 - The application will detect and count the gestures in real-time.
 
-## Contributing
-
-We welcome contributions to improve the project. To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and push to the branch.
-4. Open a pull request with a description of your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [React](https://reactjs.org/) - For building the user interface.
 - [OpenCV](https://opencv.org/) - For computer vision functionalities.
 
-## Contact
-
-If you have any questions or feedback, please reach out to:
-
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
-
----
 
 Thank you for checking out the Sign Language Tracker Prototype!
